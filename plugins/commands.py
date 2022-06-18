@@ -101,7 +101,7 @@ async def start(client, message: pyrogram.types.Message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "🤖 Join Updates Channel", url=f'https://t.me/Mh_linkZzz')
+                    "🤖 Join Updates Channel", url=f'https://t.me/+gyZFP-mFh7YyN2Q1')
                 )
             ]
         ]
